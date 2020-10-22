@@ -4,7 +4,7 @@ import com.sl.orderservice.Model.Customer;
 import com.sl.orderservice.Services.CustomerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-
+//dogma
 @RestController
 public class CustomerController {
 
